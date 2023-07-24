@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Finding Age</string>
+    <string name="welcome_to_kotlin">Welcome to Kotlin</string>
+</resources>
